@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.mib_utils'
 VERSION = '1.08'
 AUTHOR = 'Kells Kearney'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.mib_utils']
 INSTALL_REQUIRES = []
